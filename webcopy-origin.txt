@@ -1,0 +1,180 @@
+Uri: https://Pariah-INU.co/
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\index.htm
+Content Type: text/html
+
+Uri: https://Pariah-INU.co/css/style.css
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\css\style.css
+Content Type: text/css
+
+Uri: https://Pariah-INU.co/img/favicon.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\favicon.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/files/whitepaper.pdf
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\files\whitepaper.pdf
+Content Type: application/pdf
+
+Uri: https://app.uniswap.org/
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dextools.io/app/uniswap/pair-explorer/0xb8ec4eb95d104753747bc689e6e997a637245bbd
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\app\uniswap\pair-explorer\0xb8ec4eb95d104753747bc689e6e997a637245bbd.html
+Content Type: text/html
+
+Uri: https://www.coingecko.com/en/coins/Pariah-INU
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\en\coins\Pariah-INU.html
+Content Type: text/html
+
+Uri: https://coinmarketcap.com/currencies/Pariah-INU/
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\currencies\Pariah-INU\index.htm
+Content Type: text/html
+
+Uri: https://blockfolio.com/coin/Pariah-INU
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\coin\Pariah-INU.html
+Content Type: text/html
+
+Uri: https://app.1inch.io/
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\index-2.htm
+Content Type: text/html
+
+Uri: https://bilaxy.com/trade/Pariah-INU_ETH
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\trade\Pariah-INU_ETH.html
+Content Type: text/html
+
+Uri: https://www.cointiger.com/en-us/
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\en-us\index.htm
+Content Type: text/html
+
+Uri: https://Pariah-INU.medium.com/
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\index-3.htm
+Content Type: text/html
+
+Uri: https://twitter.com/Pariah-INUToken
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\Pariah-INUToken.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-204340165-1
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/591ca88306.js
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\591ca88306.js
+Content Type: text/javascript
+
+Uri: https://Pariah-INU.co/img/logo.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\logo.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/banner-Pariah-INU.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\banner-Pariah-INU.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/ethereum.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\ethereum.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/section-two-project.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\section-two-project.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/section-two-heart.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\section-two-heart.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/shiba-inu.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\shiba-inu.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/akita-inu.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\akita-inu.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/doge-coin.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\doge-coin.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/ecosystem.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\ecosystem.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/community.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\community.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/meme-based.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\meme-based.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/total-supply.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\total-supply.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/fifty-per-total-supply.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\fifty-per-total-supply.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/fifty-per-supply.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\fifty-per-supply.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/coingecko.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\coingecko.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/coinmarketcap.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\coinmarketcap.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/blockfolio.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\blockfolio.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/uniswap.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\uniswap.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/linch.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\linch.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/bilaxy.webp
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\bilaxy.webp
+Content Type: image/webp
+
+Uri: https://Pariah-INU.co/img/cointiger.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\cointiger.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/footer-bubble.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\footer-bubble.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/footer-plane.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\footer-plane.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/js/script.js
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\js\script.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\css2.css
+Content Type: text/css
+
+Uri: https://Pariah-INU.co/img/banner-bg.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\banner-bg.png
+Content Type: image/png
+
+Uri: https://Pariah-INU.co/img/bg-shape-min.png
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\img\bg-shape-min.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/Hu4F8AFjXZ
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\invite\Hu4F8AFjXZ.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/Pariah-INUtoken/?igshid=1e53qr6qeld6x
+File Name: C:\Downloaded Web Sites\Pariah-INU.co\Pariah-INUtoken\index.htm
+Content Type: text/html
+
