@@ -5717,9 +5717,10 @@ progress {
 body {
     font-family: "Montserrat", sans-serif;
     margin: 0;
-    background-color: #550A35;
+    background-color: #000000;
     position: relative;
     overflow-x: hidden
+
 }
 a {
     text-decoration: none
@@ -9086,7 +9087,7 @@ header.scrolling .get-app a {
     color: #060013 !important
 }
 .banner {
-    background-image: url("../img/ICO-Airdrops.png");
+    background-image: url("../img/ico.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
